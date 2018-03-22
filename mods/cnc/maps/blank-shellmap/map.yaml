@@ -12,9 +12,9 @@ MapSize: 5,5
 
 Bounds: 1,1,1,1
 
-Visibility: Shellmap
+Visibility: MissionSelector
 
-Categories: Shellmap
+Categories: Conquest
 
 Players:
 	PlayerReference@Neutral:
